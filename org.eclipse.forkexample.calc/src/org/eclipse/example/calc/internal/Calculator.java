@@ -41,6 +41,8 @@ public class Calculator {
 		new Minus();
 		new Plus();
 		new Square();
+		
+//		Bitte noch Divide, Multiply, Power und Fakultät einbinden
 	}
 
 	private void calculate(String cmdName) {
