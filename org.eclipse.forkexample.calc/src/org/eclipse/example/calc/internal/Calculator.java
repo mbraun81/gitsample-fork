@@ -7,6 +7,10 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
+
+// Hello!
+// 2nd comment
+
 package org.eclipse.example.calc.internal;
 
 import org.eclipse.example.calc.BinaryOperation;
