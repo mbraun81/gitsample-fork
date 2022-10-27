@@ -7,6 +7,10 @@
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
+
+// Hello!
+// 2nd comment
+
 package org.eclipse.example.calc.internal;
 
 import org.eclipse.example.calc.BinaryOperation;
@@ -36,10 +40,13 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+//	    Hier könnten auch mal mehr Rechenoperationen hin
 		new Equals();
 		new Minus();
 		new Plus();
 		new Square();
+		
+//		Bitte noch Divide, Multiply, Power und Fakultät einbinden
 	}
 
 	private void calculate(String cmdName) {
